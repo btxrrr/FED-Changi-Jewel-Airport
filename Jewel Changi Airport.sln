@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{0A7F0FF9-4489-42AC-9967-15DF6ECF1309}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\JewelTour.mp4 = ..\..\..\..\Downloads\JewelTour.mp4
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{07F83846-1C32-4EED-B8BB-475F65D22DA3}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\css-table-12\css-table-12\css\bootstrap.min.css = ..\..\..\..\Downloads\css-table-12\css-table-12\css\bootstrap.min.css
+		styles.css = styles.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{A0C86E96-46A5-4A6B-B5EA-F4723769464F}"
+	ProjectSection(SolutionItems) = preProject
+		animate.js = animate.js
+		..\..\..\..\Downloads\css-table-12\css-table-12\js\bootstrap.min.js = ..\..\..\..\Downloads\css-table-12\css-table-12\js\bootstrap.min.js
+		js\jewel.js = js\jewel.js
+		..\..\..\..\Downloads\css-table-12\css-table-12\js\jquery-3.3.1.min.js = ..\..\..\..\Downloads\css-table-12\css-table-12\js\jquery-3.3.1.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{97D201B8-AEBB-43C4-AC22-8BC9E5255B2E}"
+	ProjectSection(SolutionItems) = preProject
+		Test 2.html = Test 2.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A7F0FF9-4489-42AC-9967-15DF6ECF1309} = {97D201B8-AEBB-43C4-AC22-8BC9E5255B2E}
+		{07F83846-1C32-4EED-B8BB-475F65D22DA3} = {97D201B8-AEBB-43C4-AC22-8BC9E5255B2E}
+		{A0C86E96-46A5-4A6B-B5EA-F4723769464F} = {97D201B8-AEBB-43C4-AC22-8BC9E5255B2E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A5A0404-C45B-4AB5-A6AB-EEE4AFD66E95}
+	EndGlobalSection
+EndGlobal
