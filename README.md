@@ -20,10 +20,6 @@ This assignment requires our team to develop a responsive front-end website. We 
 - 表格和表单
 - 响应式元素和动画
 
-Information sourced from the Internet must be cited appropriately on the page to avoid copyright infringement, especially for multimedia materials.
-
-从互联网获取的信息必须在页面上适当引用，以避免侵犯版权，尤其是多媒体材料。
-
 ## Deliverables
 ## 交付成果
 
