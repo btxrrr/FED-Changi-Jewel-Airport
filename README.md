@@ -33,6 +33,6 @@ A working front-end website with the following structure:
 - `media` folder
 - HTML files (e.g., `index.html`, `credits.html`, etc.)
 
-This repository aims to showcase our skills in front-end development, taking inspiration from the Jewel Changi Airport website. Let's create an engaging and responsive web experience!
+This repository aims to showcase my skills in front-end development, taking inspiration from the Jewel Changi Airport website. I hope to create an engaging and responsive web experience!
 
 这个仓库旨在展示我们在前端开发方面的技能，灵感来自星耀樟宜机场网站。让我们创造一个引人入胜且响应迅速的网页体验！
